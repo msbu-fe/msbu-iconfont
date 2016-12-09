@@ -1,0 +1,158 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1481278910837'); /* IE9*/
+  src: url('iconfont.eot?t=1481278910837#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1481278910837') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1481278910837') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1481278910837#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon_addpatient_norx-:before { content: "\e628"; }
+
+.icon-add:before { content: "\e629"; }
+
+.icon-arrow-right:before { content: "\e62b"; }
+
+.icon-arrow:before { content: "\e62c"; }
+
+.icon-ask:before { content: "\e62d"; }
+
+.icon-attention:before { content: "\e62e"; }
+
+.icon-check:before { content: "\e62f"; }
+
+.icon-checkedbox:before { content: "\e630"; }
+
+.icon-checkbox:before { content: "\e631"; }
+
+.icon-cardid:before { content: "\e632"; }
+
+.icon-close-o:before { content: "\e633"; }
+
+.icon-clock:before { content: "\e634"; }
+
+.icon-completed:before { content: "\e636"; }
+
+.icon-decide:before { content: "\e637"; }
+
+.icon-commpany:before { content: "\e638"; }
+
+.icon-declare:before { content: "\e639"; }
+
+.icon-doctor-plus:before { content: "\e63a"; }
+
+.icon-delete:before { content: "\e63b"; }
+
+.icon-doctor:before { content: "\e63c"; }
+
+.icon-favorite:before { content: "\e63d"; }
+
+.icon-down-btn:before { content: "\e63e"; }
+
+.icon-goodoctor:before { content: "\e63f"; }
+
+.icon-feedback:before { content: "\e640"; }
+
+.icon-help:before { content: "\e641"; }
+
+.icon-home:before { content: "\e642"; }
+
+.icon-icon_intro:before { content: "\e643"; }
+
+.icon-instant-error:before { content: "\e644"; }
+
+.icon-icon_notice:before { content: "\e645"; }
+
+.icon-insurance:before { content: "\e646"; }
+
+.icon-invite-disease:before { content: "\e647"; }
+
+.icon-invite:before { content: "\e648"; }
+
+.icon-link:before { content: "\e649"; }
+
+.icon-inurance-o:before { content: "\e64a"; }
+
+.icon-map:before { content: "\e64b"; }
+
+.icon-logout:before { content: "\e64c"; }
+
+.icon-medtitle:before { content: "\e64d"; }
+
+.icon-mobile:before { content: "\e64e"; }
+
+.icon-menu:before { content: "\e64f"; }
+
+.icon-nocheck:before { content: "\e650"; }
+
+.icon-microphone:before { content: "\e651"; }
+
+.icon-noread:before { content: "\e652"; }
+
+.icon-notice:before { content: "\e653"; }
+
+.icon-myorder:before { content: "\e654"; }
+
+.icon-order-add:before { content: "\e655"; }
+
+.icon-order:before { content: "\e656"; }
+
+.icon-payment:before { content: "\e657"; }
+
+.icon-order-manager:before { content: "\e658"; }
+
+.icon-order-time:before { content: "\e659"; }
+
+.icon-picture-o:before { content: "\e65a"; }
+
+.icon-play:before { content: "\e65b"; }
+
+.icon-position-o:before { content: "\e65c"; }
+
+.icon-pay:before { content: "\e65d"; }
+
+.icon-position:before { content: "\e65e"; }
+
+.icon-practice:before { content: "\e65f"; }
+
+.icon-prune:before { content: "\e660"; }
+
+.icon-plus-with-border:before { content: "\e661"; }
+
+.icon-search:before { content: "\e662"; }
+
+.icon-service:before { content: "\e663"; }
+
+.icon-read:before { content: "\e664"; }
+
+.icon-share:before { content: "\e665"; }
+
+.icon-star-small:before { content: "\e666"; }
+
+.icon-three:before { content: "\e667"; }
+
+.icon-tel:before { content: "\e668"; }
+
+.icon-set:before { content: "\e669"; }
+
+.icon-time:before { content: "\e66a"; }
+
+.icon-user:before { content: "\e66b"; }
+
+.icon-visit-time:before { content: "\e66c"; }
+
+.icon-warning:before { content: "\e66d"; }
+
+.icon-wallet:before { content: "\e66e"; }
+
+.icon-wallet-o:before { content: "\e66f"; }
+
